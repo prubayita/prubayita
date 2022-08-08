@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @prubayita
-- 👀 I’m interested in JS 
-- 🌱 I’m currently learning react and react native
-- 💞️ I’m looking to collaborate on android & ios app
+- 👀 I’m interested in DevOps
+- 🌱 I graduated Udacity Cloud Developer nano Degree
+- 💞️ I’m looking to collaborate on AWS DevOps
 - 📫 How to reach me prubayita@gmail.com
 
 <!---
